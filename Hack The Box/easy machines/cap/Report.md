@@ -260,7 +260,7 @@ Saida JSON:
     ]
 ```
 
-**Interpretação:** várias páginas retornaram 200 (ex.: `/data/0000`, `/data/0001`, `/data/0002`, `/data/0003`, `/data/0004`), o que indica que o endpoint responde para múltiplos identificadores — possível ponto de acesso a arquivos de outros usuários (IDOR).
+**Interpretação:** várias páginas retornaram 200 (ex.: `/data/0000`, `/data/0001`, `/data/0003`, `/data/0004`), o que indica que o endpoint responde para múltiplos identificadores — possível ponto de acesso a arquivos de outros usuários (IDOR).
 
 ---
 
