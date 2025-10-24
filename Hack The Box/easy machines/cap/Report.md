@@ -289,7 +289,7 @@ O comando autentica como usuário `nathan` via SSH. O acesso foi bem-sucedido; a
 
 **Evidência (print da flag):**
 
-<p align="center"> <img src="./assets/flag1.png" alt="Primeira Flag CAP" width="600"/> </p> <p align="center"><em>Figura 2 — Primeira Flag do Desafio</em></p>
+<p align="center"> <img src="./assets/flag1.png" alt="Primeira Flag" width="600"/> </p> <p align="center"><em>Figura 2 — Primeira Flag do Desafio</em></p>
 
 ---
 
