@@ -1,0 +1,9 @@
+# Nmap 7.95 scan initiated Thu Oct 30 09:28:03 2025 as: /usr/lib/nmap/nmap -p- --min-rate=1000 -oN "/home/kali/Documents/ctfs/Hack The Box/easy machines/conversor/outputs/nmap_portscan_recon.txt" 10.129.76.81
+Nmap scan report for 10.129.76.81
+Host is up (0.21s latency).
+Not shown: 65533 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+# Nmap done at Thu Oct 30 09:30:08 2025 -- 1 IP address (1 host up) scanned in 124.97 seconds
